@@ -1,0 +1,9 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+@import 'fonts';
+
+.grad-blue{
+  background-image: linear-gradient(-180deg, #2ACCFF 0%, #1772A3 100%);
+}
